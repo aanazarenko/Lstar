@@ -1,3 +1,7 @@
+# Calculate L* for CIELAB and vice versa from CIELAB to CIEXYZ
+ 
+## Results of calculations []:
+```
 L*=0 Y=0.000000 <---> L*=0
 L*=1 Y=0.001107 <---> L*=0
 L*=2 Y=0.002214 <---> L*=1
@@ -100,3 +104,4 @@ L*=97 Y=0.924403 <---> L*=97
 L*=98 Y=0.949163 <---> L*=98
 L*=99 Y=0.974360 <---> L*=99
 L*=100 Y=1.000000 <---> L*=100
+```
