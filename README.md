@@ -1,4 +1,6 @@
 # Calculate L* for CIELAB and vice versa from CIELAB to CIEXYZ
+
+I use [CIELAB color space] (https://en.wikipedia.org/wiki/CIELAB_color_space) for formulas 
  
 ## Results of calculations []:
 ```
